@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="New Employee Computer Request">6a53b9cfc3e5a65079b2770d050131f7</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:33:23</sys_created_on>
+        <sys_id>ba868fc7c3ada65079b2770d050131f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Employee Computer Request.Any User</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ba868fc7c3ada65079b2770d050131f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:33:23</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</application>
+        <file_path/>
+        <instance_id>cb5328c13b386e94c55a348aa4e45a91</instance_id>
+        <instance_name>dev319956</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_ba868fc7c3ada65079b2770d050131f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Employee Computer Request">6a53b9cfc3e5a65079b2770d050131f7</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:33:23</sys_created_on><sys_id>ba868fc7c3ada65079b2770d050131f9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Employee Computer Request.Any User</sys_name><sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package><sys_policy/><sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_ba868fc7c3ada65079b2770d050131f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:33:23</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>343441220</payload_hash>
+        <record_name>New Employee Computer Request.Any User</record_name>
+        <reverted_from/>
+        <source>f5986943c3e5a65079b2770d050131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:33:23</sys_created_on>
+        <sys_id>7a868fc7c3ada65079b2770d050131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f1f9d1ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:33:23</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>7a868fc7baada650b3f3009441be2ffd</update_guid>
+        <update_guid_history>7a868fc7baada650b3f3009441be2ffd:343441220</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Employee Computer Request.Any User">5596cfc7c3ada65079b2770d050131fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:33:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>4e315fa03959473cab3c5f96a5b9e811</sys_id>
+        <sys_metadata>ba868fc7c3ada65079b2770d050131f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Employee Computer Request.Any User</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_scope_delete display_value="">cac8d6f1d7674fd68a28764e0b160f09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ba868fc7c3ada65079b2770d050131f9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_ba868fc7c3ada65079b2770d050131f9">7a868fc7c3ada65079b2770d050131fe</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:33:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

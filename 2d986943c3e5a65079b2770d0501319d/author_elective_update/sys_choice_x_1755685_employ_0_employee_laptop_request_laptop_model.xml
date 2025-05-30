@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="laptop_model" table="x_1755685_employ_0_employee_laptop_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>laptop_model</element>
+            <name>x_1755685_employ_0_employee_laptop_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 01:54:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>laptop_model</sys_name>
+            <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+            <sys_update_name>sys_choice_x_1755685_employ_0_employee_laptop_request_laptop_model</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 01:54:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

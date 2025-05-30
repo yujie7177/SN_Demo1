@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="67010ce3c3a52a5079b2770d0501316e" label="Computer Inventory" max_length="40" name="x_1755685_employ_0_computer_inventory" type="collection">
+        <element label="Assigned by" max_length="32" name="assigned_by" reference="sys_user" type="reference"/>
+        <element choice="3" default="available" label="Computer Status" max_length="32" name="computer_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Available" sequence="1" value="not_available"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+            </choice>
+        </element>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element default="8dfb6cf0c3b5661079b2770d0501310e" label="Computer Model" max_length="32" name="computer_model" reference="x_1755685_employ_0_computer_model" type="reference"/>
+        <element label="Computer id" max_length="40" name="computer_id" type="string"/>
+        <index name="index">
+            <element name="assigned_by"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

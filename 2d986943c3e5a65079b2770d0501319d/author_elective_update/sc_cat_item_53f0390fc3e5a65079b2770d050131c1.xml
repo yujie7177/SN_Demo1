@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>New Employee Computer Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=53f0390fc3e5a65079b2770d050131c1&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>Request a computer for a new employee.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 02:19:35</sys_created_on>
+        <sys_id>53f0390fc3e5a65079b2770d050131c1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>New Employee Computer Request</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_update_name>sc_cat_item_53f0390fc3e5a65079b2770d050131c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 02:28:00</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>5</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=53f0390fc3e5a65079b2770d050131c1"/>
+    <fx_price action="DELETE" query="id=53f0390fc3e5a65079b2770d050131c1"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>53f0390fc3e5a65079b2770d050131c1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 02:19:35</sys_created_on>
+        <sys_id>5ff0390fc3e5a65079b2770d050131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 02:19:35</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</application>
+        <file_path/>
+        <instance_id>cb5328c13b386e94c55a348aa4e45a91</instance_id>
+        <instance_name>dev319956</instance_name>
+        <name>sc_cat_item_53f0390fc3e5a65079b2770d050131c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>New Employee Computer Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=53f0390fc3e5a65079b2770d050131c1&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><request_method/><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template><short_description>Request a computer for a new employee.</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 02:19:35</sys_created_on><sys_id>53f0390fc3e5a65079b2770d050131c1</sys_id><sys_mod_count>5</sys_mod_count><sys_name>New Employee Computer Request</sys_name><sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package><sys_policy/><sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope><sys_update_name>sc_cat_item_53f0390fc3e5a65079b2770d050131c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 02:28:00</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>5</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=53f0390fc3e5a65079b2770d050131c1"/><fx_price action="delete_multiple" query="id=53f0390fc3e5a65079b2770d050131c1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>53f0390fc3e5a65079b2770d050131c1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 02:19:35</sys_created_on><sys_id>5ff0390fc3e5a65079b2770d050131c6</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 02:19:35</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>1613238807</payload_hash>
+        <record_name>New Employee Computer Request</record_name>
+        <reverted_from/>
+        <source>f5986943c3e5a65079b2770d050131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 02:28:05</sys_created_on>
+        <sys_id>6fe2b1cfc3e5a65079b2770d0501318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f0ab60290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 02:28:05</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>27e2b1cf73e5a6505f1bab894dc2b88f</update_guid>
+        <update_guid_history>27e2b1cf73e5a6505f1bab894dc2b88f:1613238807,7971354f43e5a6509c21223bcf736e5c:-1220873695,2351714fdce5a650f80a748ec5c9e0ec:1788125296,f331fd0fdce5a650c18b4cb617978b14:-1862803244,9c01390f6ae5a65053b8a9cd877685d7:-11165519,9ff0390f41e5a650726949f037a50ccc:-1816900689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Employee Computer Request">23e2b1cfc3e5a65079b2770d050131d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 02:28:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>074e0ab853064944876c8dd7f109e204</sys_id>
+        <sys_metadata>53f0390fc3e5a65079b2770d050131c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Employee Computer Request</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_scope_delete display_value="">cac8d6f1d7674fd68a28764e0b160f09</sys_scope_delete>
+        <sys_update_name>sc_cat_item_53f0390fc3e5a65079b2770d050131c1</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_53f0390fc3e5a65079b2770d050131c1">6fe2b1cfc3e5a65079b2770d0501318f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 02:28:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

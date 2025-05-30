@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:47:44</sys_created_on>
+        <sys_id>acb921c3c3e5a65079b2770d050131aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755685_employ_0_employee_laptop_request.x_1755685_employ_0.admin</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_security_acl display_value="x_1755685_employ_0_employee_laptop_request">24b921c3c3e5a65079b2770d050131a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_acb921c3c3e5a65079b2770d050131aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:47:44</sys_updated_on>
+        <sys_user_role display_value="x_1755685_employ_0.admin" name="x_1755685_employ_0.admin">ee986943c3e5a65079b2770d050131f1</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</application>
+        <file_path/>
+        <instance_id>cb5328c13b386e94c55a348aa4e45a91</instance_id>
+        <instance_name>dev319956</instance_name>
+        <name>sys_security_acl_role_acb921c3c3e5a65079b2770d050131aa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 01:47:44</sys_created_on><sys_id>acb921c3c3e5a65079b2770d050131aa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755685_employ_0_employee_laptop_request.x_1755685_employ_0.admin</sys_name><sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package><sys_policy/><sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope><sys_security_acl display_value="x_1755685_employ_0_employee_laptop_request">24b921c3c3e5a65079b2770d050131a6</sys_security_acl><sys_update_name>sys_security_acl_role_acb921c3c3e5a65079b2770d050131aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 01:47:44</sys_updated_on><sys_user_role display_value="x_1755685_employ_0.admin" name="x_1755685_employ_0.admin">ee986943c3e5a65079b2770d050131f1</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1874842589</payload_hash>
+        <record_name>x_1755685_employ_0_employee_laptop_request.x_1755685_employ_0.admin</record_name>
+        <reverted_from/>
+        <source>f5986943c3e5a65079b2770d050131a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 01:47:44</sys_created_on>
+        <sys_id>a4b921c3c3e5a65079b2770d050131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f0866f130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 01:47:44</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a8b921c3c8e5a6509b670c8610c1e5c6</update_guid>
+        <update_guid_history>a8b921c3c8e5a6509b670c8610c1e5c6:1874842589</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1755685_employ_0_employee_laptop_request.x_1755685_employ_0.admin">dbeee94bc3e5a65079b2770d05013157</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 02:10:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0d9291d0939043698666cafde0403ff1</sys_id>
+        <sys_metadata>acb921c3c3e5a65079b2770d050131aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755685_employ_0_employee_laptop_request.x_1755685_employ_0.admin</sys_name>
+        <sys_package display_value="Employee Onboarding Laptop Request" source="x_1755685_employ_0">2d986943c3e5a65079b2770d0501319d</sys_package>
+        <sys_parent display_value="">24b921c3c3e5a65079b2770d050131a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding Laptop Request">2d986943c3e5a65079b2770d0501319d</sys_scope>
+        <sys_scope_delete display_value="">cac8d6f1d7674fd68a28764e0b160f09</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_acb921c3c3e5a65079b2770d050131aa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_acb921c3c3e5a65079b2770d050131aa">a4b921c3c3e5a65079b2770d050131c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 02:10:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

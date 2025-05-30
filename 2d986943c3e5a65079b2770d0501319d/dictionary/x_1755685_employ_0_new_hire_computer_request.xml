@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f91f218bc3e5a65079b2770d050131ae" label="New Hire Computer Request" max_length="40" name="x_1755685_employ_0_new_hire_computer_request" type="collection">
+        <element label="Comments" max_length="4000" name="comments" type="string"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Manager" max_length="32" name="manager" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Pickup Date" max_length="40" name="pickup_date" type="glide_date"/>
+        <element label="Assigned to User" max_length="32" name="assigned_to_user" reference="sys_user" type="reference"/>
+        <element choice="3" default="in_process" label="Process Status" max_length="40" name="process_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Process" sequence="0" value="in_process"/>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="completed"/>
+            </choice>
+        </element>
+        <element label="Computer Model" max_length="40" name="computer_model" reference="x_1755685_employ_0_computer_model" type="reference"/>
+        <element choice="3" default="pending" label="Approval Status" max_length="40" name="approval_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+            </choice>
+        </element>
+        <element label="Requested For" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_to_user"/>
+        </index>
+        <index name="index2">
+            <element name="manager"/>
+        </index>
+        <index name="index3">
+            <element name="requested_for"/>
+        </index>
+    </element>
+</database>
